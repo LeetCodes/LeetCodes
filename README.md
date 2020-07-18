@@ -1,6 +1,6 @@
 ### LeetCodes
 <a href="https://leet.codes/" target="_blank">
- <img src="https://i.imgur.com/FI6j9YJ.gif" width="444" height="332" style="top:0;left:0;width:100vw;height:100vh;position:absolute;" border="10"/>
+ <img src="https://i.giphy.com/media/xUA7aZgVdfUyniw4BW/source.gif" width="444" height="332" style="top:0;left:0;width:100vw;height:100vh;position:absolute;" border="10"/>
 </a>
 
 <!--
